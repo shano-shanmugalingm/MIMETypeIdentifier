@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="103" started-at="2014-07-14T05:19:04Z" finished-at="2014-07-14T05:19:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="103" started-at="2014-07-14T05:19:04Z" finished-at="2014-07-14T05:19:04Z">
+      <class name="com.file.mime.type.MimeTypeFinderTestCase">
+        <test-method status="PASS" signature="mimeTypeShouldBeOfMPEG()[pri:0, instance:com.file.mime.type.MimeTypeFinderTestCase@1e53fc13]" name="mimeTypeShouldBeOfMPEG" duration-ms="90" started-at="2014-07-14T15:19:04Z" finished-at="2014-07-14T15:19:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mimeTypeShouldBeOfMPEG -->
+        <test-method status="PASS" signature="mimeTypeShouldBeOfWAV()[pri:0, instance:com.file.mime.type.MimeTypeFinderTestCase@1e53fc13]" name="mimeTypeShouldBeOfWAV" duration-ms="3" started-at="2014-07-14T15:19:04Z" finished-at="2014-07-14T15:19:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mimeTypeShouldBeOfWAV -->
+      </class> <!-- com.file.mime.type.MimeTypeFinderTestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
